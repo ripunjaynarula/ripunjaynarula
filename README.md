@@ -1,4 +1,4 @@
-🔭 I’m currently working on Frontend Web Development
+🔭 I’m currently working on Frontend Web Development and Problem Solving
 
 🌱 I’m currently learning React JS
 
