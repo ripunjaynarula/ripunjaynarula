@@ -7,7 +7,9 @@
 📫 How to reach: 
 
 ripunjay.narula@gmail.com
+
 LinkedIn: Ripunjay Narula (https://www.linkedin.com/in/ripunjaynarula/)
+
 Instagram @ripunjayy (https://www.instagram.com/ripunjayy/) 
 
   
