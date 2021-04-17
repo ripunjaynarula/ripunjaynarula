@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning Flutter
 
-💬 Ask me about HTML5, CSS, JS, PHP, ReactJS, C/C++, Java, Python, DSA
+💬 Ask me about HTML5, CSS, JS, PHP, ReactJS, C/C++, Java, Python, DSA, SQL
 
 📫 How to reach:
 - :office: [LinkedIn](https://www.linkedin.com/in/ripunjaynarula/)
