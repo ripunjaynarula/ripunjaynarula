@@ -12,9 +12,7 @@
 
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=ripunjaynarula&show_icons=true&theme=dark">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripunjaynarula&layout=compact&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api?username=ripunjaynarula&show_icons=true&theme=dark">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripunjaynarula&layout=compact&langs_count=8">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ripunjaynarula&theme=github">
 
