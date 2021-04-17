@@ -1,6 +1,6 @@
-💻 I’m currently working on Frontend Web Development and Problem Solving
+💻 Working on Frontend Web Development and Problem Solving
 
-🌱 I’m currently learning 	<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
+🌱 Learning 	<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />
 
 🔭 Tools: 
 
