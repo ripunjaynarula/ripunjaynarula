@@ -1,6 +1,6 @@
 🔭 I’m currently working on Frontend Web Development and Problem Solving
 
-🌱 I’m currently learning React JS
+🌱 I’m currently learning Flutter
 
 💬 Ask me about HTML5, CSS, JS, PHP, ReactJS, C/C++, DSA, Java, Python
 
