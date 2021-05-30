@@ -23,9 +23,9 @@ Front-End Web Development and Problem Solving
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ripunjaynarula&column=7&layout=compact&theme=gruvbox&no-frame=true"/>
 </a>  
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ripunjaynarula&show_icons=true&theme=dark"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripunjaynarula&layout=compact&langs_count=8&theme=dark">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=ripunjaynarula&show_icons=true&theme=dark"> <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripunjaynarula&layout=compact&langs_count=8&theme=dark">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ripunjaynarula&layout=compact&theme=dark">
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=ripunjaynarula&layout=compact&theme=dark">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ripunjaynarula&theme=github">
 
