@@ -28,7 +28,7 @@ Front-End Web Development and Problem Solving
 <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=ripunjaynarula&layout=compact&theme=dark">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ripunjaynarula&theme=github">
-<!-- 
+
 ## Have a laugh
 
-<img src="https://readme-jokes.vercel.app/api"> -->
+<img src="https://readme-jokes.vercel.app/api"> 
