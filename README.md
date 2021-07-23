@@ -32,3 +32,4 @@ Front-End Web Development and Problem Solving
 ## Have a laugh
 
 <img src="https://readme-jokes.vercel.app/api"> 
+<!-->
