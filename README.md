@@ -55,11 +55,9 @@ Front-End Development and Problem Solving -->
 
 
 # 🏆 Github Profile Statistics
+ 
 
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=ripunjaynarula&show_icons=true&theme=dark">
-<img height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripunjaynarula&layout=compact&langs_count=8&theme=dark">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=ripunjaynarula&show_icons=true&theme=dark"> <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripunjaynarula&layout=compact&langs_count=8&theme=dark">
 
 <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=ripunjaynarula&layout=compact&theme=dark">
 
