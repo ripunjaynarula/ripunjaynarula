@@ -6,6 +6,7 @@
   
 </div>
 
+
 # 📫 How to Reach
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ripunjaynarula/)
@@ -21,8 +22,7 @@ Front-End Development and Problem Solving -->
 
 
 # 🏆 Github Profile Statistics
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ripunjaynarula&column=7&layout=compact&theme=gruvbox&no-frame=true"/>
-</a>  
+ 
 
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=ripunjaynarula&show_icons=true&theme=dark"> <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripunjaynarula&layout=compact&langs_count=8&theme=dark">
 
