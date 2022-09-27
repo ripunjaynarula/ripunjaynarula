@@ -64,7 +64,15 @@ Front-End Development and Problem Solving -->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ripunjaynarula&theme=github">
 
+# Badges
+
+<div>
+<img src="https://holopin.io/api/user/board?user=ripunjaynarula"/>
+</div>
+
 # Have a Laugh
 
 <img src="https://readme-jokes.vercel.app/api">
 <!-->
+
+
