@@ -22,11 +22,11 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ripunjaynarula&theme=github">
 
-# Badges
+<!-- # Badges
 
 <div>
 <img src="https://holopin.io/api/user/board?user=ripunjaynarula"/>
-</div>
+</div> -->
 
 # Have a Laugh
 
