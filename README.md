@@ -4,7 +4,6 @@
 
 - Software Engineer
 - Building AI-powered enterprise SaaS products
-- Passionate about Product Management, AI, and Full Stack Development
 - Currently exploring LLMs, Product Analytics, and scalable system design
 
 ## Tech Stack
