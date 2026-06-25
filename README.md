@@ -1,36 +1,45 @@
-# Visitor Count
-<div>
-    <p>
-        <img src="https://profile-counter.glitch.me/ripunjaynarula/count.svg" />
-    </p>
+# Hi there, I'm Ripunjay Narula 👋
 
-</div>
+## About Me
 
+- Software Engineer
+- Building AI-powered enterprise SaaS products
+- Passionate about Product Management, AI, and Full Stack Development
+- Currently exploring LLMs, Product Analytics, and scalable system design
 
-# 📫 How to Reach
+## Tech Stack
 
-[<img alt="LinkedIn"
-    src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ripunjaynarula/)
+**Languages**
 
+C# • Java • Python • JavaScript • SQL
 
-# 🏆 Github Profile Statistics
- 
+**Frontend**
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=ripunjaynarula&show_icons=true&theme=dark"> <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripunjaynarula&layout=compact&langs_count=8&theme=dark">
+Angular • React • HTML • CSS • Bootstrap
 
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=ripunjaynarula&layout=compact&theme=dark">
+**Backend**
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ripunjaynarula&theme=github">
+.NET Core • REST APIs • Entity Framework
 
-<!-- # Badges
+**Database**
 
-<div>
-<img src="https://holopin.io/api/user/board?user=ripunjaynarula"/>
-</div> -->
+PostgreSQL • SQL Server
 
-# Have a Laugh
+**Tools**
 
-<img src="https://readme-jokes.vercel.app/api">
-<!-->
+Git • Docker • Postman • Jira • Power BI • Mixpanel
 
+## Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ripunjaynarula)
+
+## GitHub Stats
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ripunjaynarula&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripunjaynarula&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ripunjaynarula&theme=tokyonight"/>
+</p>
