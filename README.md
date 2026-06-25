@@ -1,4 +1,4 @@
-# Hi there, I'm Ripunjay Narula 👋
+# Hi there, I'm Ripunjay Narula
 
 ## About Me
 
@@ -41,4 +41,14 @@ Git • Docker • Postman • Jira • Power BI • Mixpanel
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ripunjaynarula&theme=tokyonight"/>
+</p>
+
+## Have a Laugh 😄
+
+<p align="center">
+  <img
+    src="https://readme-jokes.vercel.app/api?theme=tokyonight"
+    alt="Random Programming Joke"
+    style="width:100%;"
+  />
 </p>
